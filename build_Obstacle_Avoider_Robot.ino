@@ -1,8 +1,4 @@
-/* Bluetooth Controlled Obstacle Avoidance Robot
-   Prepared by : Alok
-  Talukdar
-   Date        : 09.05.2020
-*/
+
 
 #include<SoftwareSerial.h>
   // To use any pin on Arduino for Serial communication.
